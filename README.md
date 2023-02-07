@@ -1,6 +1,5 @@
 Examen tipo 2a Evaluación Despliegue de Aplicaciones Web.
 
-
 Deberás de:
 -Escribir al menos 2 test unitarios
 -Configurar GitHubActions para:
